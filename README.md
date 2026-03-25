@@ -12,13 +12,13 @@ Raspberry Pi Connect Scripts
 
 ![instalacja](grass-node/grass1-rpi3.png)
 ![instalacja](grass-node/grass2-rpi3.png)   
-![instalacja](grass-node/grass3-rpi3.png)   
+ 
 ![instalacja](grass-node/grass4-rpi3.png)   
 ![instalacja](grass-node/grass5-rpi3.png)   
 ![instalacja](grass-node/grass6-rpi3.png)   
 ![instalacja](grass-node/grass7-rpi3.png)   
 ![instalacja](grass-node/grass8-rpi3.png)   
-
+![instalacja](grass-node/grass3-rpi3.png)  
 ...logujesz do panelu
 ![instalacja](grass-node/grass3-rpi3.png)
 
