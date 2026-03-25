@@ -18,7 +18,6 @@ Raspberry Pi Connect Scripts
 ![instalacja](grass-node/grass6-rpi3.png)   
 ![instalacja](grass-node/grass7-rpi3.png)   
 ![instalacja](grass-node/grass8-rpi3.png)   
-![instalacja](grass-node/grass3-rpi3.png)  
 ...logujesz do panelu
 ![instalacja](grass-node/grass3-rpi3.png)
 
