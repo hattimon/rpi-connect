@@ -29,5 +29,5 @@ sudo reboot
 ![instalacja](grass-node/grass-rpi3.png)
 
 GOTOWE!
-Automatycznie przy starcie startuje chromium z wtyczka gras w tle.
+Automatycznie przy starcie startuje chromium z wtyczką grass w tle.
 
