@@ -11,7 +11,9 @@ Raspberry Pi Connect Scripts
 2. Dodajesz wtyczke do chromium:
 
 ![instalacja](grass-node/grass1-rpi3.png)
-![instalacja](grass-node/grass2-rpi3.png)
+![instalacja](grass-node/grass2-rpi3.png)   
+
+...logujesz do panelu
 ![instalacja](grass-node/grass3-rpi3.png)
 
 Pobierz i uruchom skrypt instalacyjny jednym poleceniem:
