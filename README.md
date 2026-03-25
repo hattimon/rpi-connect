@@ -31,7 +31,7 @@ Restartujesz urządzenie:
 ```bash
 sudo reboot
 ```
-![instalacja](grass-node/grass-rpi3.png)
+![instalacja](grass-node/grass-install-rpi3.png)
 
 GOTOWE!
 Automatycznie przy starcie startuje chromium z wtyczką grass w tle.
